@@ -9,3 +9,15 @@ Employee Name: ASTHA DWIVEDI
 Department : Finance
 Designation: HR
 Salary: 52000
+
+
+Employee ID:125
+Emplpoyee Name:Riya
+Department:IT
+Salary: 25000
+Designation: Faculty
+
+Employee Id:126
+Employee Nmae:Tanish
+Salary:56000
+
