@@ -1,5 +1,5 @@
-Employee ID : 
-Employee Name: 
-Department : 
-Designation: 
-Salary: 
+Employee ID :123 
+Employee Name: KHUSHI DWIVEDI
+Department : IT
+Designation: HR
+Salary: 42000
