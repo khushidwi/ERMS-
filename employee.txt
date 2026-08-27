@@ -3,3 +3,9 @@ Employee Name: KHUSHI DWIVEDI
 Department : IT
 Designation: HR
 Salary: 42000
+
+Employee ID :124
+Employee Name: ASTHA DWIVEDI
+Department : Finance
+Designation: HR
+Salary: 52000
